@@ -1,6 +1,6 @@
 # Coconut Custard Pie!
 
-## Crust Ingredients
+## Crust Ingredients (Makes 2 crusts) 
 
 * 350 grams bread flour (split into 250g and 100g portions)
 * 25 grams sugar
@@ -10,7 +10,13 @@
 
 ## Crust Step-by-step
 
-
+1. Combine 250g flour, sugar, and salt in a bowl
+2. Cut up cold butter into pats and add to bowl.
+3. Fold butter into dough with a stand mixer on low until no dry flour remains (it will happen suddenly, keep a close eye on it and don't overmix).
+4. Gently mix in remaining flour.
+5. Using hands, split into two dough balls.
+6. Flatten each dough ball into a disc, then wrap in plastic.
+7. Store in refrigerator for at least two hours before use.
 
 ## Filling Ingredients
 
