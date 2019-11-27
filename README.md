@@ -18,6 +18,7 @@
 5. Using hands, split into two dough balls.
 6. Flatten each dough ball into a disc, then wrap in plastic.
 7. Store in refrigerator for at least two hours before use.
+8. Roll out the crust as usual and place into a pie tin.
 
 ## Filling Ingredients
 
@@ -33,9 +34,9 @@
 
 ## Filling Step-by-step
 
-1. Preheat the oven to 375F and blind bake the frozen pie crust for 10 minutes on a baking sheet.
-2. Remove pie crust from oven and poke holes in the air bubbles on the bottom of the crust.
-3. Place crust back into 375F oven for 15 minutes.
+1. Preheat the oven to 375F.
+2. Place pie weights on parchment paper on top of the crust. 
+3. Blind bake the frozen pie crust for X minutes on a baking sheet.
 4. Remove crust from oven and set aside.
 5. Set oven to 300F.
 6. Gently mix eggs, yolks, shredded coconut, and sugar, then set aside.
