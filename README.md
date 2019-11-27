@@ -12,7 +12,8 @@
 
 1. Combine 250g flour, sugar, and salt in a bowl
 2. Cut up cold butter into pats and add to bowl.
-3. Fold butter into dough with a stand mixer on low until no dry flour remains (it will happen suddenly, keep a close eye on it and don't overmix).
+3. Fold butter into dough with a stand mixer on low until no dry flour remains.
+  1. It will come together suddenly (maybe after 5 minutes or so), keep a close eye on it and don't overmix.
 4. Gently mix in remaining flour.
 5. Using hands, split into two dough balls.
 6. Flatten each dough ball into a disc, then wrap in plastic.
