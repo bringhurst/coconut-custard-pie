@@ -1,8 +1,20 @@
 # Coconut Custard Pie!
 
-## Ingredients
+## Crust Ingredients
 
-* 1 regular frozen pie crust
+* 350 grams bread flour (split into 250g and 100g portions)
+* 25 grams sugar
+* 5 grams salt
+* 280 grams unsalted butter
+* 85 milliliters cold water
+
+## Crust Step-by-step
+
+
+
+## Filling Ingredients
+
+* 1 pie crust
 * 3 eggs
 * 2 egg yolks
 * 0.75 cups of coconut milk
@@ -12,7 +24,7 @@
 * 0.5 cup of sugar
 * 2 cups shredded coconut
 
-## Step-by-step
+## Filling Step-by-step
 
 1. Preheat the oven to 375F and blind bake the frozen pie crust for 10 minutes on a baking sheet.
 2. Remove pie crust from oven and poke holes in the air bubbles on the bottom of the crust.
