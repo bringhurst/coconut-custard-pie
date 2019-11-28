@@ -28,7 +28,7 @@
 * 0.75 cups of heavy cream
 * 5 grams salt
 * 1 teaspoon of coconut extract
-* 0.5 cup of sugar
+* 150 grams of sugar
 * 2 cups shredded coconut
 
 ## Filling Step-by-step
