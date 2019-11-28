@@ -41,7 +41,7 @@
 6. Gently mix eggs, shredded coconut, and sugar, then set aside.
 7. Scald the coconut milk and heavy cream together with a pinch of salt.
 8. While mixing, slowly pour the scalded milk into the egg mixture.
-9. Pour mixture into pie crust -- use a measuring cup to pour the remaining mixture in after placing into the oven to reduce spillage.
-10. Cook until center is 185F and immediately remove from oven (approx 1 hour and 20 minutes).
+9. Pour mixture into crust.
+10. Cook until center is 185F and immediately remove from oven (approx 1 hour).
 11. Let sit at room temperature to cool for 2 hours.
 12. Let set in refrigerator overnight.
