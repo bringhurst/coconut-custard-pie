@@ -34,7 +34,7 @@
 ## Filling Step-by-step
 
 1. Preheat the oven to 375F.
-2. Place pie weights on parchment paper on top of the crust. 
+2. Place pie weights on parchment paper on top of the crust and cover the edges with tin foil
 3. Blind bake the frozen pie crust for X minutes on a baking sheet.
 4. Remove crust from oven and set aside.
 5. Set oven to 300F.
