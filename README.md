@@ -23,8 +23,7 @@
 ## Filling Ingredients
 
 * 1 pie crust (see recipie above)
-* 3 whole eggs
-* 2 egg yolks
+* 4 eggs
 * 0.75 cups of coconut milk
 * 0.75 cups of heavy cream
 * 5 grams salt
