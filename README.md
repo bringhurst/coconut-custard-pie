@@ -6,7 +6,6 @@
 * 25 grams sugar
 * 5 grams salt
 * 280 grams unsalted butter
-* 85 milliliters cold water
 
 ## Crust Step-by-step
 
@@ -15,7 +14,7 @@
 3. Fold butter into dough with a stand mixer on low until no dry flour remains.
     * It will come together suddenly (maybe after 5 minutes or so), keep a close eye on it and don't overmix.
 4. Gently mix in remaining flour.
-5. Using hands, split into two dough balls.
+5. Using hands, split into two dough balls. Splash with some cold water if it doesn't come together.
 6. Flatten each dough ball into a disc, then wrap in plastic.
 7. Store in refrigerator for at least two hours before use.
 8. Roll out the crust as usual and place into a pie tin.
